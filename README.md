@@ -9,5 +9,5 @@ Usage
 * make sure Python3 is installed. 
 * open commandline of your choice and cd to folder with main.py
 * use python3 and run HeaderHacker.py with: -p path-to-files -s sample,rates,with,comma
-* exmaple: python3 HeaderHacker.py /Users/Samples/FilesToBeConverted -s 44100,1500,22050
+* example of use: python3 HeaderHacker.py /Users/Samples/FilesToBeConverted -s 44100,1500,22050
 * Wait for processing and done message and new files will have been converted at location.
