@@ -8,6 +8,6 @@ Usage
 
 * make sure Python3 is installed. 
 * open commandline of your choice and cd to folder with main.py
-* Drag and drop a folder of .wav files, or a single file into the commandline to get get path.
-* Input the sample rates you want to change to, seperate with comma. e.g. 44100,22050,11000
-* Wait for processing and folder will open.
+* use python3 and run HeaderHacker.py with: -p path-to-files -s sample,rates,with,comma
+* exmaple: python3 HeaderHacker.py /Users/Samples/FilesToBeConverted -s 44100,1500,22050
+* Wait for processing and done message and new files will have been converted at location.
