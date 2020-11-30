@@ -57,7 +57,6 @@ if __name__ == '__main__':
                         help='sample rantes seperated by comma, like so: 44100,22050')
 
     args = parser.parse_args()
-
     sampleRateString = args.s
 
     if sampleRateString is None or len(sampleRateString) < 1:
