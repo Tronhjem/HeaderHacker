@@ -2,7 +2,7 @@
 
 Hack the header of a wave file, to change the interpreted sample rate.  
 The script does not do sample rate conversion or time stretch, but change sample rate in the header of the file.
-This means a file of 88.2Hz, changed with the script to be played as 44.1kHz, would play at half the speed.
+This means a file of 88.2kHz, changed with the script to be played as 44.1kHz, would play at half the speed.
 
 Usage
 
